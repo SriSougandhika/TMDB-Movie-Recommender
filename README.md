@@ -1,6 +1,10 @@
 # TMDB-Movie-Recommender
 This project implements a movie recommendation system using content-based filtering. It utilizes metadata such as movie descriptions, genres, keywords, and crew details to suggest movies based on similarity to a given movie.
 
+## Dataset Used
+The dataset used here is the TMDB movie dataset acquired from Kaggle [(Link Here)](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata).
+The dataset was collected from [TMDB](https://www.themoviedb.org/), and you can explore their API for more information and additional data. The dataset files could not be uploaded due to their large size, so it is suggested that it should be downloaded from Kaggle or the website link provided above.
+
 ## Project Overview
 This movie recommendation system uses the TMDB movie dataset to build a content-based recommendation engine. The system calculates movie similarities based on a combined feature set, including:
 
