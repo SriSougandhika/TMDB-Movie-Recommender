@@ -40,3 +40,6 @@ We apply natural language processing (NLP) techniques such as text vectorization
 
 ## Copyright:
 This project aims to acquire the basic concepts of a recommender and NLP strategies. Although it is a well-known straightforward approach, it is not the intention to copy the code and plagiarize it. 
+
+## 🙌 Credits
+Project by Sri – an aspiring Data Scientist exploring AI in creative ways!
